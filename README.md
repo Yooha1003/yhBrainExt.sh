@@ -9,7 +9,7 @@ The script for the best brain extraction using ANTs (http://stnava.github.io/ANT
   However, it is not perfectly working sometimes in B1-bias field affected brains.
   For example, too much extraction in temporal cortex in 7 Tesla T1w images.
 
-  Development History:
+  Development History: \
     Version 0.2: changed strategy (2018.8.24) \
     Version 0.1: the script release (2018.7.20)
 
@@ -20,9 +20,9 @@ The script for the best brain extraction using ANTs (http://stnava.github.io/ANT
   yhBrainExt.sh -version (see the version)
 
   Compulsory arguments:
-      -i:  input image (nifti file)
-      -o:  final output name
-      -p:  intermediate files (1: remain / 0: remove)
+      -i:  input image (nifti file) \
+      -o:  final output name \
+      -p:  intermediate files (1: remain / 0: remove) \
 
 --------------------------------------------------------------------------------------
   Requirement: ANTs pre-installation
