@@ -1,6 +1,6 @@
 # yhBrainExt.sh
---------------------------------   yhBrainExt.sh  ------------------------------------
-  The script for the best brain extraction using ANTs (http://stnava.github.io/ANTs/).
+
+The script for the best brain extraction using ANTs (http://stnava.github.io/ANTs/).
 
   Description:
   This script is modified using previous antsBrainExtraction.sh script and other
@@ -13,7 +13,6 @@
     Version 0.2: changed strategy (2018.8.24)
     Version 0.1: the script release (2018.7.20)
 
---------------------------------------------------------------------------------------
   Example Usage:
   yhBrainExt.sh -i input -o input_Brain -p 1
 
@@ -27,8 +26,6 @@
 
 --------------------------------------------------------------------------------------
   Requirement: ANTs pre-installation
---------------------------------------------------------------------------------------
-
 --------------------------------------------------------------------------------------
   This method was created by:
 
