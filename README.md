@@ -19,10 +19,10 @@ The script for the best brain extraction using ANTs (http://stnava.github.io/ANT
   (Optional)
   yhBrainExt.sh -version (see the version)
 
-  Compulsory arguments:
+  Compulsory arguments: \
       -i:  input image (nifti file) \
       -o:  final output name \
-      -p:  intermediate files (1: remain / 0: remove) \
+      -p:  intermediate files (1: remain / 0: remove)
 
 --------------------------------------------------------------------------------------
   Requirement: ANTs pre-installation
