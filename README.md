@@ -10,7 +10,7 @@ The script for the best brain extraction using ANTs (http://stnava.github.io/ANT
   For example, too much extraction in temporal cortex in 7 Tesla T1w images.
 
   Development History:
-    Version 0.2: changed strategy (2018.8.24)
+    Version 0.2: changed strategy (2018.8.24) \
     Version 0.1: the script release (2018.7.20)
 
   Example Usage:
