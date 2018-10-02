@@ -2,11 +2,10 @@
 
 The script for the best brain extraction using ANTs (http://stnava.github.io/ANTs/).
 
-  Description:
-  This script is modified using previous antsBrainExtraction.sh script and other
-  ants commands.
-  The script is very well working in human brains regardless of shapes and ages.
-  However, it is not perfectly working sometimes in B1-bias field affected brains.
+  Description:\
+  This script is modified using previous antsBrainExtraction.sh script and other ants commands.\
+  The script is very well working in human brains regardless of shapes and ages.\
+  However, it is not perfectly working sometimes in B1-bias field affected brains.\
   For example, too much extraction in temporal cortex in 7 Tesla T1w images.
 
   Development History: \
