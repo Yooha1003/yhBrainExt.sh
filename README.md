@@ -36,3 +36,14 @@ The script for the best brain extraction using ANTs (http://stnava.github.io/ANT
                       Script writing and modification by Uksu
                       Do not modify without a permission.
 --------------------------------------------------------------------------------------
+
+
+--------------------------------------------------------------------------------------
+                                  Sample result
+--------------------------------------------------------------------------------------
+
+<img src="https://github.com/Yooha1003/yhBrainExt.sh/blob/master/f1.png" height="300" style="max-width:100%;">
+
+--------------------------------------------------------------------------------------
+<img src="https://github.com/Yooha1003/yhBrainExt.sh/blob/master/f2.png" height="300" style="max-width:100%;">
+
